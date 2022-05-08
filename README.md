@@ -17,6 +17,7 @@ Features
 - Unpin Message
 
 *Note for skids* 
+
 I hope you get it by a car and get some b'tches
 
 # Usage
@@ -30,5 +31,6 @@ Open Command Prompt and type : *pip install pystyle pip install requests*
 # Contact me
 
 vesper#0003 (discord)
+
 *discord.gg/vesper*
 
