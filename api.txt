@@ -1,0 +1,6 @@
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
+Telegram Bot API : https://core.telegram.org/bots/api#available-methods
+Bot API Sample : https://api.telegram.org/bot<BOT API>/
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
